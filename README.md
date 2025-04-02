@@ -1,2 +1,1 @@
-# iv-tasks
-[Assignments] Given tasks from interview assignments
+# Interview Assignments
