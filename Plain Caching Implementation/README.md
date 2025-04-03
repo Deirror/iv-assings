@@ -11,7 +11,7 @@ It means the library should take care of unnecessary requests for user data if s
 
 **Why**:
 
-*Let's say we have a bunch of user information (idnetified by id) inside our main database.<br />
+*Let's say we have a bunch of user information (identified by id) inside our main database.<br />
 Simultaneously there's thousands of requets per second for user information.<br />
 We can consider that database is a bottleneck right. To avoid that we need a cache mechanism.<br />*
 
