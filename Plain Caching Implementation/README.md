@@ -21,4 +21,4 @@ We can consider that database is a bottleneck right. To avoid that we need a cac
 
 *Example*:
 
-*If within 1000 request there are 100 unique user ids then there should be only a maximum 100 requests into the database but all 1000 requests should get a response with a user data.*
+*If within 1000 requests there are 100 unique user ids then there should be only a maximum 100 requests into the database but all 1000 requests should get a response with a user data.*
