@@ -1,4 +1,4 @@
 # Plain Caching Implementation
 
--- Given on an interview for Junior Go Software Developer
+-- Given on an interview for the position of Junior Software Developer
 
