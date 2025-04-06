@@ -19,3 +19,10 @@ Goals: Design a parking lot using object-oriented principles
 - A motorcycle can park in any spot
 - A car can park in a single compact spot, or a regular spot
 - A van can park, but it will take up 3 regular spots
+
+--
+
+### Clarifications 
+- Motorcycle: Can park everywhere (in any spot)
+- Car: Can only park in car spots (either regular or compact)
+- Van: Needs 3 regular car spots or a large spot (which is typically designated for vans)
