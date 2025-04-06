@@ -26,4 +26,4 @@ Clarifications from me, ***Deirror***
 - Car: Can only park in car spots (either regular or compact)
 - Van: Needs 3 regular car spots or a large spot (which is typically designated for vans)
 - We have to write just an exemplary solution which also includes a test file so that we can show that it actually solves the problem
-- I will use **REST** http requests to handle the methods that should be run.
+- I will create a RESTful API where the server listens for specific routes (URLs) related to the vehicles
