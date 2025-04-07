@@ -24,6 +24,6 @@ Clarifications from me, ***Deirror***
 --
 - Motorcycle: Can park everywhere (in any spot)
 - Car: Can only park in car spots (either regular or compact)
-- Van: Needs 3 regular car spots or a large spot (which is typically designated for vans)
+- Van: Needs 3 regular car spots
 - We have to write just an exemplary solution which also includes a test file so that we can show that it actually solves the problem
 - I will create a RESTful API where the server listens for specific routes (URLs) related to the vehicles
